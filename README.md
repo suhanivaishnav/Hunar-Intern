@@ -30,14 +30,16 @@ pip install -r requirements.txt   # For Python-based projects
 4. Run the Project
 npm start   # For JavaScript projects
 python app.py   # For Python projects
+
 📌 How to Use
 1. Browse the repository for internship projects and tasks.
 2. Follow the documentation for each project to understand the requirements.
 3. Work on assigned tasks and submit your solutions via pull requests.
 4. Participate in community discussions to enhance learning.
+
+
 🤝 Contribution Guidelines
 We welcome contributions from everyone! To contribute:
-
 1. Fork the repository
 2. Create a new branch for your changes
 git checkout -b feature-new-internship-task
